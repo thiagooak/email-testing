@@ -1,0 +1,76 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "464ffd8fd78b0009e5cdaaf79e8dc30f",
+    "packages": [
+        {
+            "name": "messaged/php-mime-mail-parser",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/message/php-mime-mail-parser.git",
+                "reference": "6f8524d5c56826d341846a1c704498259f2208b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/message/php-mime-mail-parser/zipball/6f8524d5c56826d341846a1c704498259f2208b6",
+                "reference": "6f8524d5c56826d341846a1c704498259f2208b6",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mailparse": "*",
+                "ext-mbstring": "*",
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "MimeMailParser": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC BY-SA 3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Gabe",
+                    "email": "gabe@fijiwebdesign.com",
+                    "homepage": "http://www.fijiwebdesign.com/"
+                },
+                {
+                    "name": "Dmitry Polovka",
+                    "email": "messaged@messaged.lv",
+                    "homepage": "http://messaged.lv"
+                }
+            ],
+            "description": "Mailparse extension wrapper for PHP 5.3+",
+            "homepage": "http://github.com/message/php-mime-mail-parser",
+            "keywords": [
+                "MimeMailParser",
+                "mail",
+                "mailparse",
+                "mime"
+            ],
+            "time": "2014-03-04 21:37:43"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
