@@ -29,6 +29,11 @@ body {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
+  text-align: center;
+}
+
+.footer a {
+  color: #aaaaaa;
 }
 
 /* Customize container */
@@ -54,6 +59,7 @@ body {
 /* Supporting marketing content */
 .marketing {
   margin: 40px 0;
+  margin-bottom: 20px;
 }
 .marketing p + h4 {
   margin-top: 28px;
