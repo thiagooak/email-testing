@@ -31,8 +31,12 @@
           <input type="file" name="email" style="display: inline-block;">
           <input type="submit" class="btn btn-lg btn-success" value="Submit">
         </form>
+
       </div>
 
+      <div>
+        <p style="text-align:center;">To use this tool on the official Westwing address go to <a href="http://emailtest.westwing.com.br/">http://emailtest.westwing.com.br</a></p>
+      </div>
       <div class="row marketing">
         <div class="col-lg-6">
           <h4>Getting the raw email</h4>
@@ -49,7 +53,7 @@
       </div>
 
       <div class="footer">
-        <p><a href="http://github.com/thiagooak" target="_blank">made with &#9829; in são paulo</a></p>
+        <p>made with &#9829; in são paulo</p>
       </div>
 
     </div>
