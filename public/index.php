@@ -34,9 +34,6 @@
 
       </div>
 
-      <div>
-        <p style="text-align:center;">To use this tool on the official Westwing address go to <a href="http://emailtest.westwing.com.br/">http://emailtest.westwing.com.br</a></p>
-      </div>
       <div class="row marketing">
         <div class="col-lg-6">
           <h4>Getting the raw email</h4>
